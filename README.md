@@ -12,3 +12,5 @@
 ## Powodzenia!
 
 BIG CHANGE
+
+Posyp cebulę cukrem przy smażeniu by była bardziej aromatyczna
